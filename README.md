@@ -10,7 +10,7 @@ I am a passionate **Computer Science Undergraduate** (Class of 2026) specializin
 - 💼 **Experience**: Former Java Full Stack Intern at **CampusPe**
 - 📍 **Location**: Chikodi, Karnataka, India
 - ✉️ **Contact**: varadsure362@gmail.com
-- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/varad-sure) *(Update with your link)*
+- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/varad-sure)
 
 ---
 
