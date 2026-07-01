@@ -10,7 +10,7 @@ I am a passionate **Computer Science Undergraduate** (Class of 2026) specializin
 - 💼 **Experience**: Former Java Full Stack Intern at **CampusPe**
 - 📍 **Location**: Chikodi, Karnataka, India
 - ✉️ **Contact**: varadsure362@gmail.com
-- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/varad-sure-b26476337/) *(Update with your link)*
+- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/varad-sure) *(Update with your link)*
 
 ---
 
@@ -76,6 +76,6 @@ I am a passionate **Computer Science Undergraduate** (Class of 2026) specializin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varadsure362-cmyk&show_icons=true&theme=radical&hide_border=true" alt="Varad's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadsure362-cmyk&layout=compact&theme=radical&hide_border=true" alt="Varad's Top Languages" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varadsure362-cmyk&theme=radical&hide_border=true" alt="Varad's GitHub Streak" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varadsure362-cmyk&theme=radical&hide_border=true" alt="Varad's Activity Graph" width="48%"/>
 </p>
